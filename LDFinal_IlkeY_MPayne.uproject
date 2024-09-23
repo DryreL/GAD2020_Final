@@ -1,6 +1,16 @@
 {
 	"FileVersion": 3,
-	"EngineAssociation": "4.27",
+	"EngineAssociation": "5.4",
 	"Category": "",
-	"Description": ""
+	"Description": "",
+	"Plugins": [
+		{
+			"Name": "DryreLUIEssentialsPlugin",
+			"Enabled": false
+		},
+		{
+			"Name": "FMODStudio",
+			"Enabled": false
+		}
+	]
 }
